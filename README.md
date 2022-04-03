@@ -1,11 +1,19 @@
 # Laundry_UKK
 my last project at smk moklet 
 
-. folder front end masih dalam tahap pengembangan
+jika terjadi masalah silahkan download file .rar di link 
+https://drive.google.com/drive/folders/1L3YW4TS-XgE-UEbtPN61nYMAS__rwoqg?usp=sharing
 
-- download folder back end untuk tetap ter update
-- download rar back end jika mengalami masalah dalam menginstal library (node modules)
-- jika ada kendala eror di transaksi.controller.js bagian controller delete, 
-  ganti req.body.id_transaksi jadi req.params.id_transaksi,
-  ganti juga router.delete menjadi seperti router.get (by id)
-- 
+
+
+
+
+
+
+
+
+
+XII RPL 6 / 33
+Muhammad Dzahah
+Ahad, 2 ramadhan/1 ramadhan 
+2022/04/03 22.00(wib) 
