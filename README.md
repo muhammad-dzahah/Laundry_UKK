@@ -1,5 +1,5 @@
 # Laundry_UKK
-my last project at smk moklet 
+my last project in smk moklet 
 
 jika terjadi masalah silahkan download file .rar di link 
 https://drive.google.com/drive/folders/1L3YW4TS-XgE-UEbtPN61nYMAS__rwoqg?usp=sharing
